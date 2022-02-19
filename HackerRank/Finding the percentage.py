@@ -7,3 +7,6 @@ if __name__ == '__main__':
         student_marks[name] = scores
         
     query_name = input()
+
+    
+    

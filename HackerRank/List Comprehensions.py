@@ -29,3 +29,6 @@ if __name__ == '__main__':
             pos = int(tmp_str_ar[1])
             val = int(tmp_str_ar[2])
             ar.insert(pos, val)
+
+            
+            
