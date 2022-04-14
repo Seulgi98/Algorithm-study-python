@@ -1,6 +1,6 @@
 import sys
 sys.stdin=open("input2.txt", "rt")
-# K번째
+# K번째 수
 T=int(input())
 for t in range(T):
     n, s, e, k=map(int, input().split()) # 첫번째 케이스 4가지 input 2번째 줄
