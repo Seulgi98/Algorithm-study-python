@@ -4,8 +4,12 @@ sys.stdin=open("input4.txt", "rt")
 n=int(input()) #n명의 학생
 a=list(map(int, input().split())) #수학성적
 ave=round(sum(a)/n) #평균
-#round : 소수 첫째자리에서 반올림
-#sum : a리스트의 값을 모두 합쳐줌
+'''round : 소수 첫째자리에서 반올림
+sum : a리스트의 값을 모두 합쳐줌
+round를 못쓸때 : 
+a=a+0.5
+a=int(a)
+'''
 min=2147000000 # 큰 값으로 선언하고 최소값 비교
 
 for idx, x in enumerate(a): #idx:학생번호, x:성적
