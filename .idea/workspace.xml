@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfec7f5c-446f-42de-84a0-784423bcc77d" name="Changes" comment="Sets" />
+    <list default="true" id="bfec7f5c-446f-42de-84a0-784423bcc77d" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/prepareCodingTest/section2/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prepareCodingTest/section2/k-thDivisor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -45,6 +50,8 @@
       <workItem from="1645711601429" duration="239000" />
       <workItem from="1646055549300" duration="706000" />
       <workItem from="1646626676053" duration="772000" />
+      <workItem from="1649908555869" duration="354000" />
+      <workItem from="1649936888461" duration="674000" />
     </task>
     <task id="LOCAL-00001" summary="algorithm">
       <created>1644824582451</created>
@@ -88,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646626834882</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update">
+      <created>1649908672211</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1649908672211</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +123,7 @@
     <MESSAGE value="algorithm" />
     <MESSAGE value="Strings" />
     <MESSAGE value="Sets" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sets" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
