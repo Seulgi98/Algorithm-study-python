@@ -6,3 +6,4 @@ for t in range(1, T+1):
         if i%2 == 1:
             sum+=i
     print('#{} {} '.format(t, sum))
+    
