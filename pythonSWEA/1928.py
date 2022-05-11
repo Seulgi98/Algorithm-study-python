@@ -7,31 +7,20 @@ decode = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 
           ]
 
 for tc in range(1, 1 + T):
-    word = list(input())
+    word = list(input()) # 한글자씩 나누기 위해 list로 받아옴
     length = len(word)
-    # word의 글자 -> 표1에 따라 숫자로 변환 -> 이진수로 변환 -> 하나의 res로 만들기
     res = ''
 
     for q in range(length):
-        # word -> 표1에 따라 숫자로 변환
-        num = decode.index(word[q])
-        # num -> 이진수로 변환
-        # int형태로 더하면 단순 숫자의 합이 나오므로 str로 변환하고 앞의 0b 제거
+        num = decode.index(q) # 디코드 안의 q의 인덱스
         bin_num = str(bin(num)[2:])
-        # bin_num의 길이가 6보다 작으면 앞에 0 붙여주기
-        # 1을 이진수로 바꾸면 1로 나옴(필요한 값은 000001임)
-        while len(bin_num) < 6:
+        while len(bin_num) < 6: # 6자리수가 될때까지 0붙이기 반복
             bin_num = '0' + bin_num
         res += bin_num
-    # 문제에서 구하고자 하는 원래 문장
-    r = ''
+    r = '' # 문제에서 구하고자 하는 원래 문장
 
-    # 글자의 길이 * 6에서 8비트씩 자름
-    for w in range(length * 6 // 8):
-        # 8비트씩 자르기
-        # 자른 값을 10진수로 변환
+    for w in range(len(res) // 8):
         e = int(res[w * 8:w * 8 + 8], 2)
-        # 아스키코드의 값을 r에 추가
         r += chr(e)
 
     print('#{} {}'.format(tc, r))
