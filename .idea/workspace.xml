@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfec7f5c-446f-42de-84a0-784423bcc77d" name="Changes" comment="1928.">
-      <change afterPath="$PROJECT_DIR$/pythonSWEA/1986.py" afterDir="false" />
+    <list default="true" id="bfec7f5c-446f-42de-84a0-784423bcc77d" name="Changes" comment="1986.">
+      <change afterPath="$PROJECT_DIR$/pythonSWEA/1288.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +64,7 @@
       <workItem from="1649936888461" duration="2609000" />
       <workItem from="1650238414431" duration="28000" />
       <workItem from="1651837401499" duration="641000" />
-      <workItem from="1652139819080" duration="8671000" />
+      <workItem from="1652139819080" duration="12464000" />
     </task>
     <task id="LOCAL-00001" summary="algorithm">
       <created>1644824582451</created>
@@ -276,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652227688573</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="1986.">
+      <created>1652228508980</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1652228508980</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,6 +322,7 @@
     <MESSAGE value="1545." />
     <MESSAGE value="1945." />
     <MESSAGE value="1928." />
-    <option name="LAST_COMMIT_MESSAGE" value="1928." />
+    <MESSAGE value="1986." />
+    <option name="LAST_COMMIT_MESSAGE" value="1986." />
   </component>
 </project>
