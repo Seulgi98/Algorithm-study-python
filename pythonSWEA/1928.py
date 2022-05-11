@@ -7,9 +7,7 @@ decode = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 
           ]
 
 for tc in range(1, 1 + T):
-    # 입력받는 글자(인코딩 된 상태)
     word = list(input())
-    # 글자의 길이
     length = len(word)
     # word의 글자 -> 표1에 따라 숫자로 변환 -> 이진수로 변환 -> 하나의 res로 만들기
     res = ''
