@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfec7f5c-446f-42de-84a0-784423bcc77d" name="Changes" comment="1545.">
-      <change afterPath="$PROJECT_DIR$/pythonSWEA/1945.py" afterDir="false" />
+    <list default="true" id="bfec7f5c-446f-42de-84a0-784423bcc77d" name="Changes" comment="1945.">
+      <change afterPath="$PROJECT_DIR$/pythonSWEA/1928.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +19,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -56,7 +64,7 @@
       <workItem from="1649936888461" duration="2609000" />
       <workItem from="1650238414431" duration="28000" />
       <workItem from="1651837401499" duration="641000" />
-      <workItem from="1652139819080" duration="3180000" />
+      <workItem from="1652139819080" duration="7830000" />
     </task>
     <task id="LOCAL-00001" summary="algorithm">
       <created>1644824582451</created>
@@ -247,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652142125197</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="1945.">
+      <created>1652143434588</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1652143434588</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,6 +299,7 @@
     <MESSAGE value="1936." />
     <MESSAGE value="2019." />
     <MESSAGE value="1545." />
-    <option name="LAST_COMMIT_MESSAGE" value="1545." />
+    <MESSAGE value="1945." />
+    <option name="LAST_COMMIT_MESSAGE" value="1945." />
   </component>
 </project>
