@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfec7f5c-446f-42de-84a0-784423bcc77d" name="Changes" comment="1948.">
-      <change afterPath="$PROJECT_DIR$/pythonSWEA/1979.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bfec7f5c-446f-42de-84a0-784423bcc77d" name="Changes" comment="1979." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +63,7 @@
       <workItem from="1651837401499" duration="641000" />
       <workItem from="1652139819080" duration="20881000" />
       <workItem from="1652399240973" duration="3901000" />
-      <workItem from="1652661811593" duration="707000" />
+      <workItem from="1652661811593" duration="1137000" />
     </task>
     <task id="LOCAL-00001" summary="algorithm">
       <created>1644824582451</created>
@@ -355,7 +352,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652660819116</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="1979.">
+      <created>1652662701191</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1652662701191</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -373,7 +377,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sets" />
     <MESSAGE value="update" />
     <MESSAGE value="k번째 약수 문제 풀이" />
     <MESSAGE value="k번째 수 문제 풀이" />
@@ -398,7 +401,8 @@
     <MESSAGE value="1928." />
     <MESSAGE value="1959." />
     <MESSAGE value="1948." />
-    <option name="LAST_COMMIT_MESSAGE" value="1948." />
+    <MESSAGE value="1979." />
+    <option name="LAST_COMMIT_MESSAGE" value="1979." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
