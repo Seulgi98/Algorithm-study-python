@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfec7f5c-446f-42de-84a0-784423bcc77d" name="Changes" comment="1959.">
-      <change afterPath="$PROJECT_DIR$/pythonSWEA/1948.py" afterDir="false" />
+    <list default="true" id="bfec7f5c-446f-42de-84a0-784423bcc77d" name="Changes" comment="1948.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonSWEA/1948.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSWEA/1948.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,7 @@
       <workItem from="1650238414431" duration="28000" />
       <workItem from="1651837401499" duration="641000" />
       <workItem from="1652139819080" duration="20881000" />
-      <workItem from="1652399240973" duration="2206000" />
+      <workItem from="1652399240973" duration="3135000" />
     </task>
     <task id="LOCAL-00001" summary="algorithm">
       <created>1644824582451</created>
@@ -340,7 +340,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652254769973</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="1948.">
+      <created>1652401512354</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1652401512354</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -358,7 +365,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Strings" />
     <MESSAGE value="Sets" />
     <MESSAGE value="update" />
     <MESSAGE value="k번째 약수 문제 풀이" />
@@ -383,7 +389,8 @@
     <MESSAGE value="1989." />
     <MESSAGE value="1928." />
     <MESSAGE value="1959." />
-    <option name="LAST_COMMIT_MESSAGE" value="1959." />
+    <MESSAGE value="1948." />
+    <option name="LAST_COMMIT_MESSAGE" value="1948." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
