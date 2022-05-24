@@ -9,10 +9,10 @@ for tc in range(1, 1+T):
         tmp = []
         for i in range(n):
             tmp.append(arr[i][j])
-            print('tmp', tmp)
+            # print('tmp', tmp)
 
         tmp.reverse()
-        print('tmp reverse', tmp)
+        # print('tmp reverse', tmp)
         arr_90.append(tmp)
 
     # 180 도 회전
