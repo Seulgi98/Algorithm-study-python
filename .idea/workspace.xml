@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfec7f5c-446f-42de-84a0-784423bcc77d" name="Changes" comment="2007.">
-      <change afterPath="$PROJECT_DIR$/pythonSWEA/1961.py" afterDir="false" />
+    <list default="true" id="bfec7f5c-446f-42de-84a0-784423bcc77d" name="Changes" comment="1961.">
+      <change afterPath="$PROJECT_DIR$/pythonSWEA/1966.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +68,7 @@
       <workItem from="1652399240973" duration="3901000" />
       <workItem from="1652661811593" duration="3011000" />
       <workItem from="1653306715525" duration="23000" />
-      <workItem from="1653349244753" duration="7701000" />
+      <workItem from="1653349244753" duration="9764000" />
     </task>
     <task id="LOCAL-00001" summary="algorithm">
       <created>1644824582451</created>
@@ -392,7 +392,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653390256291</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="1961.">
+      <created>1653394927357</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1653394927357</updated>
+    </task>
+    <task id="LOCAL-00048" summary="1961.">
+      <created>1653395195410</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1653395195410</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -410,7 +424,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="k번째 수 문제 풀이" />
     <MESSAGE value="2050." />
     <MESSAGE value="init gitignore" />
     <MESSAGE value="2047." />
@@ -435,7 +448,8 @@
     <MESSAGE value="1948." />
     <MESSAGE value="1940." />
     <MESSAGE value="2007." />
-    <option name="LAST_COMMIT_MESSAGE" value="2007." />
+    <MESSAGE value="1961." />
+    <option name="LAST_COMMIT_MESSAGE" value="1961." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
