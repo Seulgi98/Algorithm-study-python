@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfec7f5c-446f-42de-84a0-784423bcc77d" name="Changes" comment="1961.">
-      <change afterPath="$PROJECT_DIR$/pythonSWEA/1966.py" afterDir="false" />
+    <list default="true" id="bfec7f5c-446f-42de-84a0-784423bcc77d" name="Changes" comment="1928.">
+      <change afterPath="$PROJECT_DIR$/pythonSWEA/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,28 +68,8 @@
       <workItem from="1652399240973" duration="3901000" />
       <workItem from="1652661811593" duration="3011000" />
       <workItem from="1653306715525" duration="23000" />
-      <workItem from="1653349244753" duration="9764000" />
-    </task>
-    <task id="LOCAL-00001" summary="algorithm">
-      <created>1644824582451</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1644824582451</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Strings">
-      <created>1645257820708</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1645257820708</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Strings">
-      <created>1645361851972</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1645361851972</updated>
+      <workItem from="1653349244753" duration="12257000" />
+      <workItem from="1653521570318" duration="10034000" />
     </task>
     <task id="LOCAL-00004" summary="Strings">
       <created>1645711834126</created>
@@ -406,7 +386,35 @@
       <option name="project" value="LOCAL" />
       <updated>1653395195410</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="1966.">
+      <created>1653444545314</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1653444545314</updated>
+    </task>
+    <task id="LOCAL-00050" summary="1954.">
+      <created>1653610942262</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1653610942262</updated>
+    </task>
+    <task id="LOCAL-00051" summary="1974.">
+      <created>1653747426035</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1653747426035</updated>
+    </task>
+    <task id="LOCAL-00052" summary="1928.">
+      <created>1653747434442</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1653747434442</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -424,9 +432,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2050." />
-    <MESSAGE value="init gitignore" />
-    <MESSAGE value="2047." />
     <MESSAGE value="2046." />
     <MESSAGE value="2043." />
     <MESSAGE value="2029." />
@@ -442,14 +447,17 @@
     <MESSAGE value="1288." />
     <MESSAGE value="1284." />
     <MESSAGE value="1989." />
-    <MESSAGE value="1928." />
     <MESSAGE value="1959." />
     <MESSAGE value="1979." />
     <MESSAGE value="1948." />
     <MESSAGE value="1940." />
     <MESSAGE value="2007." />
     <MESSAGE value="1961." />
-    <option name="LAST_COMMIT_MESSAGE" value="1961." />
+    <MESSAGE value="1966." />
+    <MESSAGE value="1954." />
+    <MESSAGE value="1974." />
+    <MESSAGE value="1928." />
+    <option name="LAST_COMMIT_MESSAGE" value="1928." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
