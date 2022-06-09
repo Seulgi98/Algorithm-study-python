@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfec7f5c-446f-42de-84a0-784423bcc77d" name="Changes" comment="2005.">
+    <list default="true" id="bfec7f5c-446f-42de-84a0-784423bcc77d" name="Changes" comment="입출력과 사칙연산">
+      <change afterPath="$PROJECT_DIR$/baekjoon/입출력과 사칙연산/10926.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +45,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/baekjoon/입출력과 사칙연산" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -70,14 +76,8 @@
       <workItem from="1653349244753" duration="12257000" />
       <workItem from="1653521570318" duration="10034000" />
       <workItem from="1653874267276" duration="795000" />
-      <workItem from="1653875845677" duration="598000" />
-    </task>
-    <task id="LOCAL-00007" summary="update">
-      <created>1649908672211</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1649908672211</updated>
+      <workItem from="1653875845677" duration="1937000" />
+      <workItem from="1654151693269" duration="426000" />
     </task>
     <task id="LOCAL-00008" summary="k번째 약수 문제 풀이">
       <created>1649937578163</created>
@@ -415,7 +415,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653874461638</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="입출력과 사칙연산">
+      <created>1653884871890</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1653884871890</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -433,7 +440,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2027." />
     <MESSAGE value="2025." />
     <MESSAGE value="1938." />
     <MESSAGE value="1933." />
@@ -458,7 +464,8 @@
     <MESSAGE value="1859." />
     <MESSAGE value="1926." />
     <MESSAGE value="2005." />
-    <option name="LAST_COMMIT_MESSAGE" value="2005." />
+    <MESSAGE value="입출력과 사칙연산" />
+    <option name="LAST_COMMIT_MESSAGE" value="입출력과 사칙연산" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
