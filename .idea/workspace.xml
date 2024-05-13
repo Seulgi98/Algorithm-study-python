@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfec7f5c-446f-42de-84a0-784423bcc77d" name="Changes" comment="입출력과 사칙연산">
-      <change afterPath="$PROJECT_DIR$/baekjoon/1차원 배열/10818.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/1차원 배열/2562.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/1차원 배열/10871.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/1차원 배열/10871.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +58,7 @@
     "Python.2439.executor": "Run",
     "Python.25304.executor": "Run",
     "Python.25314.executor": "Run",
+    "Python.2562.executor": "Run",
     "Python.8393.executor": "Run",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Exception/cloudDev/python/Algorithm-study-python/baekjoon/입출력과 사칙연산",
