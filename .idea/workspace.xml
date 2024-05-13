@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfec7f5c-446f-42de-84a0-784423bcc77d" name="Changes" comment="입출력과 사칙연산">
-      <change afterPath="$PROJECT_DIR$/baekjoon/반복문/25304.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/반복문/25314.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,17 +45,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.10950.executor": "Run",
-    "Python.11382.executor": "Run",
-    "Python.25304.executor": "Run",
-    "Python.8393.executor": "Run",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Exception/cloudDev/python/Algorithm-study-python/baekjoon/입출력과 사칙연산",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.10950.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11382.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25304.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8393.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Exception/cloudDev/python/Algorithm-study-python/baekjoon/입출력과 사칙연산&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Exception\cloudDev\python\Algorithm-study-python\baekjoon\입출력과 사칙연산" />
