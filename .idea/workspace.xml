@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfec7f5c-446f-42de-84a0-784423bcc77d" name="Changes" comment="입출력과 사칙연산">
-      <change afterPath="$PROJECT_DIR$/baekjoon/문자열/11654.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/문자열/11720.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +56,7 @@
     "Python.10951.executor": "Run",
     "Python.10952.executor": "Run",
     "Python.11382.executor": "Run",
+    "Python.11720.executor": "Run",
     "Python.1546.executor": "Run",
     "Python.15552.executor": "Run",
     "Python.2438.executor": "Run",
